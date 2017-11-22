@@ -1,3 +1,7 @@
 sfdsdfsdfsfsd
+<<<<<<< HEAD
 
 ligne 10
+=======
+ligne
+>>>>>>> parent of 3b8e404... mofif de la ligne dans charles.txt
